@@ -1,12 +1,12 @@
-ё.text1{
-    color:red
+.text1{
+    color:blue;
+    font-size: large;
 }
 
-
 .text2{
-    color:green;
-    line-height: 2em;
-    background-color:yellow
+    color:red;
+    background-color:yellow;
+    font-size: xx-large;
 }
 
 .button1{
